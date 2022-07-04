@@ -1,0 +1,66 @@
+body {
+
+     background-image: url("https://img.freepik.com/fotos-gratis/frutas-e-legumes-em-listras-closeup-colagem_88281-1377.jpg?w=2000");
+}
+header {
+    background-color: #ffffff;
+    padding: 3px;
+    border-radius: 20px;
+    margin: 40px;
+}
+footer {
+    background-color: #ffffff;
+    padding: 10px;
+    border-radius: 20px;
+    margin: 40px ;
+    text-align: center;
+}
+
+    
+main {
+    background-color:#ffffff;
+    padding: 40px;
+    border-radius: 20px;
+    margin:40px;
+}
+h1{
+    text-align:center;
+}
+article {
+    border-radius: 60px;
+    padding: 10pt;
+    margin: auto;
+}
+nav {
+    word-spacing: 4pt;
+    text-align: center;
+    cursor:pointer;
+}
+
+li {
+    display: inline;
+
+}
+
+    li a {
+        
+        text-decoration: none;
+    }
+
+
+form {
+        width: 50%;
+        margin: auto;
+        font-weight: bold;
+     }
+
+input, textarea {
+    
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-bottom: 1em;
+}
+
+
